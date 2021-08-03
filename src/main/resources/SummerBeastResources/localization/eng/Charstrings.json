@@ -1,0 +1,13 @@
+{
+  "${ModID}:SummerBeast": {
+    "NAMES": [
+      "The Summer Beast",
+      "the Summer Beast"
+    ],
+    "TEXT": [
+      "QP has gone bonkers from too much sun!",
+      "You play with the heart.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~hyper~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}
